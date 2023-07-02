@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Sudoku Solver"
   ],
+  "SelectedNode": "\\Sudoku Solver\\source.c",
   "PreviewInSolutionExplorer": false
 }
